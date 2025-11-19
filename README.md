@@ -4,12 +4,12 @@ Themen für mögliche Masterarbeiten
 
 ---
 
-## 🎮🕹️ MR Camera Control
+## Topic 1: 🎮🕹️ MR-TUI mit der Passthrough Camera API
 
 - 🏞️ **MR TUI** - Mixed Reality Tangible User Interfaces 
 - 🌐 Innovative Nutzung der neuen "Passthrough Camera API"
-- 🧱 Objekterkennung und Objekttracking im "realen Raum" 
-- ⏱️ MR Beispielapplikation: geplant eine IOT Steuerung mittels MR/TUIs und MQTT
+- 🧱 Objekterkennung und Objekttracking im "realen Raum" (mit Codes, AR Marker, etc.)
+- ⏱️ MR Beispielapplikation: zum Beispiele eine innovative IOT Steuerung mittels **MR TUIs und MQTT**
 
 ---
 
