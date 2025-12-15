@@ -4,7 +4,16 @@ Themen für mögliche Masterarbeiten
 
 ---
 
-## Topic 1: 🎮🕹️ MR-TUI mit der Passthrough Camera API
+## Topic: 🎮🕹️ Multitouch TUI
+
+- 🏞️ Tangbile Objects on Multitouch Displays
+- 🌐 Examples: tiggly, edurino, ScapeX, etc.
+- 🧱 Objekterkennung und Objekttracking auf Multitouch Tables, eg. 3M
+- ⏱️ Touch-TUI Beispielapplikation: **Touch-TUIs und NFC** (Usertracking)
+
+---
+
+## Topic: 🎮🕹️ MR-TUI mit der Passthrough Camera API
 
 - 🏞️ **MR TUI** - Mixed Reality Tangible User Interfaces 
 - 🌐 Innovative Nutzung der neuen "Passthrough Camera API"
